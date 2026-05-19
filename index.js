@@ -3,7 +3,7 @@ import TelegramBot from "node-telegram-bot-api";
 
 const TOKEN = "8744896216:AAGjgV-QS3j2JuvLNUN4vzEpzLVobxdLdWI";
 
-const WEBAPP_URL = "https://tarot-app-j689.onrender.com";
+const WEBAPP_URL = "https://tarot-app-1-ek9i.onrender.com";
 
 const app = express();
 
